@@ -1,16 +1,50 @@
-## Hi there 👋
-
-<!--
-**CasualWearID/CasualWearID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CasualWearID</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f9f9f9;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+    p {
+      color: gray;
+      margin-bottom: 30px;
+    }
+    .button {
+      display: block;
+      margin: 12px auto;
+      padding: 15px;
+      width: 250px;
+      text-decoration: none;
+      color: white;
+      background: black;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: bold;
+      transition: 0.2s;
+    }
+    .button:hover {
+      opacity: 0.85;
+    }
+  </style>
+</head>
+<body>
+  <h1>CasualWearID 👕</h1>
+  <p>Menjual kaos lokal berkualitas ☁️</p>
+  
+  <a href="https://wa.me/081282344410" class="button">📞 Chat WhatsApp</a>
+  <a href="shopee.co.id/sapilah_store" class="button">🛒 Beli di Shopee</a>
+</body>
+</html>
